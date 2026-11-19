@@ -170,3 +170,14 @@ h3{font-size:30px;line-height:1.05}
   .orb,.dashboard,.hero:after{transform:none}
   .float.one,.float.two,.wa{animation:none}
 }
+
+/* hero: badges alinhados ao card, nas faixas de respiro acima e abaixo */
+.visual{padding:78px 0}
+.dashboard{z-index:1}
+.float{z-index:3}
+.float.one{left:calc(50% - min(50%,220px));top:0}
+.float.two{right:calc(50% - min(50%,220px));bottom:0}
+@media(max-width:560px){.visual{padding:76px 0}}
+
+/* evita que o conteúdo mínimo das colunas force overflow horizontal (851–1000px) */
+.stepgrid>*{min-width:0}
