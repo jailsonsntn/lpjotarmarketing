@@ -1,9 +1,7 @@
 {
   "cleanUrls": true,
   "rewrites": [
-    { "source": "/", "destination": "/landing-jr-marketing.html" },
-    { "source": "/blog", "destination": "/blog.html" },
-    { "source": "/projetos", "destination": "/projetos.html" }
+    { "source": "/", "destination": "/landing-jr-marketing" }
   ],
   "headers": [
     {
