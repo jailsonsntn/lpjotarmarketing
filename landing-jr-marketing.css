@@ -181,3 +181,7 @@ h3{font-size:30px;line-height:1.05}
 
 /* evita que o conteúdo mínimo das colunas force overflow horizontal (851–1000px) */
 .stepgrid>*{min-width:0}
+
+/* chips de cidade da home agora são links para as páginas locais */
+.cities a{display:inline-block;padding:9px 13px;border:1px solid #ffffff2a;border-radius:30px;color:#d8e4da;font-size:12px;transition:color .25s ease,border-color .25s ease,background-color .25s ease,box-shadow .25s ease,transform .25s ease}
+.cities a:hover,.cities a:focus-visible{color:#fff;border-color:#ffffffb8;background:#ffffff14;box-shadow:0 0 16px #ffffff3d,0 0 28px #ffa72524;transform:translateY(-2px);outline:none}
