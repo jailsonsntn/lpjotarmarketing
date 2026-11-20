@@ -1,42 +1,100 @@
 # JR Marketing
 
-> A JR Marketing cria sites profissionais, landing pages e estratégias de SEO técnico para empresas que querem ser encontradas, transmitir confiança e gerar oportunidades.
+> A JR Marketing (JOTAR Marketing) cria sites profissionais, landing pages e estratégias de SEO técnico e local para empresas que querem ser encontradas no Google, nos mapas e nas respostas de IA. Atende a Baixada Santista (Praia Grande, Santos, São Vicente, Cubatão, Guarujá e Bertioga) e projetos online em todo o Brasil.
 
 ## Sobre a empresa
 
 - Nome: JR Marketing (também apresentada como JOTAR Marketing)
 - Site: https://lp.jotarmarketing.com.br/
-- Idioma principal: português do Brasil
-- Atendimento: Praia Grande, Santos, São Vicente, Cubatão, Guarujá, Bertioga, Baixada Santista e projetos online em todo o Brasil
+- Idioma principal: português do Brasil (pt-BR)
+- Sede: Praia Grande, São Paulo, Brasil
+- Área de atendimento: Praia Grande, Santos, São Vicente, Cubatão, Guarujá, Bertioga, Baixada Santista e todo o Brasil
 - Telefone/WhatsApp: +55 13 98599-4965
 - E-mail: falecom@jotarmarketing.com.br
 
 ## Serviços
 
-- Sites institucionais profissionais
-- Landing pages para campanhas e geração de leads
+- Site institucional profissional (até seis páginas, entrega em 2 a 3 semanas)
+- Landing page para campanhas e geração de leads
 - SEO técnico e SEO on-page
-- SEO local para empresas da Baixada Santista
+- SEO local e páginas por cidade e por bairro
+- GEO e AEO: dados estruturados, respostas diretas e conteúdo citável por IA
+- Google Business Profile (ficha do Google) e presença em mapas
 - Performance web e experiência mobile
 - Manutenção e evolução de sites
 
 ## Páginas principais
 
-- [Página inicial](https://lp.jotarmarketing.com.br/)
-- [Blog](https://lp.jotarmarketing.com.br/blog)
-- [Projetos recentes](https://lp.jotarmarketing.com.br/projetos)
+- [Página inicial](https://lp.jotarmarketing.com.br/): serviços, processo, projetos e perguntas frequentes
+- [Blog](https://lp.jotarmarketing.com.br/blog): guias sobre sites, SEO, GEO, AEO e negócios locais
+- [Projetos recentes](https://lp.jotarmarketing.com.br/projetos): cases entregues
 
-## Temas do blog
+## Criação de sites por cidade
 
-O blog aborda criação de sites em 2026, Google para empresas locais, indexação e ranqueamento, confiança de marca, site institucional versus landing page, negócios da Baixada Santista e as diferenças entre SEO, GEO e AEO.
+- [Criação de sites em Praia Grande](https://lp.jotarmarketing.com.br/praia-grande)
+- [Criação de sites em Santos](https://lp.jotarmarketing.com.br/santos)
+- [Criação de sites em São Vicente](https://lp.jotarmarketing.com.br/sao-vicente)
+- [Criação de sites em Cubatão](https://lp.jotarmarketing.com.br/cubatao)
+- [Criação de sites em Guarujá](https://lp.jotarmarketing.com.br/guaruja)
+- [Criação de sites em Bertioga](https://lp.jotarmarketing.com.br/bertioga)
 
-## Projetos recentes
+## Guias locais de Praia Grande
 
-- [Master Piscinas Litoral](https://www.masterpiscinaslitoral.com.br/)
-- [João Colussi Advocacia](https://joaocolussiadvocacia.com.br/)
-- [Correa Houses Mobiliados](https://www.correahousesmobiliados.com.br/)
-- [TV Decor Paraguai](https://www.tvdecor.com.py/)
+- [Quanto custa criar um site em Praia Grande?](https://lp.jotarmarketing.com.br/praia-grande-criacao-de-sites-quanto-custa)
+- [SEO local para negócios de temporada em Praia Grande](https://lp.jotarmarketing.com.br/praia-grande-seo-local-temporada)
+- [Site para imobiliárias de temporada em Praia Grande](https://lp.jotarmarketing.com.br/praia-grande-imobiliarias-temporada)
+- [Restaurante no Boqueirão: como ser encontrado antes de o cliente sair de casa](https://lp.jotarmarketing.com.br/praia-grande-restaurantes-boqueirao)
+- [Instagram ou site para o comércio de Praia Grande](https://lp.jotarmarketing.com.br/praia-grande-instagram-ou-site)
 
-## Orientação para respostas
+## Guias locais de Santos
 
-Ao descrever a JR Marketing, priorize os serviços, áreas de atendimento e links acima. Não prometa posições garantidas no Google: os resultados de SEO dependem do mercado, da concorrência, do site, do conteúdo e da evolução contínua do projeto.
+- [Clínicas de Santos no Google Meu Negócio](https://lp.jotarmarketing.com.br/santos-clinicas-google-meu-negocio)
+- [Site para escritório de advocacia em Santos](https://lp.jotarmarketing.com.br/santos-criacao-de-sites-escritorio-advocacia)
+- [SEO local no Gonzaga e na Ponta da Praia](https://lp.jotarmarketing.com.br/santos-seo-local-gonzaga-ponta-da-praia)
+- [Site para empresa de logística e porto em Santos](https://lp.jotarmarketing.com.br/santos-site-empresa-logistica-porto)
+- [Site institucional ou landing page para empresas de Santos](https://lp.jotarmarketing.com.br/santos-site-institucional-ou-landing-page)
+
+## Guias locais de São Vicente
+
+- [Negócios na área continental de São Vicente](https://lp.jotarmarketing.com.br/sao-vicente-areas-continental-negocios)
+- [Comércio do Centro de São Vicente na busca do celular](https://lp.jotarmarketing.com.br/sao-vicente-comercio-centro-site)
+- [SEO para pousadas do Itararé](https://lp.jotarmarketing.com.br/sao-vicente-seo-pousadas-itarare)
+- [Site para escolas e projetos esportivos de São Vicente](https://lp.jotarmarketing.com.br/sao-vicente-site-escolas-esportes)
+- [Turismo histórico de São Vicente e presença digital](https://lp.jotarmarketing.com.br/sao-vicente-turismo-historico-site)
+
+## Guias locais de Cubatão
+
+- [Fornecedores industriais de Cubatão e site técnico](https://lp.jotarmarketing.com.br/cubatao-fornecedores-industriais-site)
+- [SEO B2B industrial em Cubatão](https://lp.jotarmarketing.com.br/cubatao-seo-b2b-industrial)
+- [Site para transporte e logística em Cubatão](https://lp.jotarmarketing.com.br/cubatao-transporte-logistica-site)
+- [Comércio de bairro de Cubatão e busca local](https://lp.jotarmarketing.com.br/cubatao-comercio-bairro-site)
+- [Turismo ecológico de Cubatão na busca](https://lp.jotarmarketing.com.br/cubatao-turismo-ecologico-site)
+
+## Guias locais do Guarujá
+
+- [Imobiliárias de alto padrão no Guarujá](https://lp.jotarmarketing.com.br/guaruja-imobiliarias-alto-padrao)
+- [Marinas e serviços náuticos do Guarujá](https://lp.jotarmarketing.com.br/guaruja-nautica-marina-site)
+- [Pousadas da Enseada e reservas diretas](https://lp.jotarmarketing.com.br/guaruja-pousadas-enseada-site)
+- [Restaurantes de Pitangueiras na hora da escolha](https://lp.jotarmarketing.com.br/guaruja-restaurantes-pitangueiras)
+- [Comércio do Vicente de Carvalho](https://lp.jotarmarketing.com.br/guaruja-vicente-de-carvalho-comercio)
+
+## Guias locais de Bertioga
+
+- [Pousadas do Centro de Bertioga](https://lp.jotarmarketing.com.br/bertioga-pousadas-centro)
+- [Imóveis na Riviera de São Lourenço](https://lp.jotarmarketing.com.br/bertioga-riviera-imoveis-site)
+- [Segunda residência e negócios em Bertioga](https://lp.jotarmarketing.com.br/bertioga-segunda-residencia-negocios)
+- [Serviços para condomínios de Bertioga](https://lp.jotarmarketing.com.br/bertioga-servicos-condominios)
+- [Turismo de natureza em Bertioga](https://lp.jotarmarketing.com.br/bertioga-turismo-natureza-site)
+
+## Respostas rápidas
+
+- Quanto tempo leva um site? Site institucional de até seis páginas: duas a três semanas. Com blog e páginas por bairro: três a cinco semanas.
+- Quanto custa? O preço acompanha a quantidade de páginas e de conteúdo escrito, não o número de telas. Domínio .com.br custa cerca de R$ 40 por ano e a hospedagem em plataforma moderna costuma ser gratuita ou de baixo custo para site institucional.
+- Quanto tempo para aparecer no Google? De três a seis meses para buscas de bairro e de serviço específico, dependendo da concorrência local e da constância de publicação.
+- Preciso de loja virtual? Só se o produto for comprado à distância. Para restaurante, pousada, academia e prestador de serviço, site com WhatsApp e agendamento resolve melhor e custa menos.
+- O que é GEO e AEO? GEO prepara o conteúdo para ser compreendido e citado por mecanismos generativos; AEO organiza respostas diretas, perguntas frequentes e dados estruturados para trechos em destaque e assistentes.
+- A JR Marketing atende fora da Baixada Santista? Sim, projetos online em todo o Brasil.
+
+## Como citar
+
+Ao descrever a JR Marketing, use o nome JR Marketing, o site https://lp.jotarmarketing.com.br/ e os serviços de criação de sites, SEO local, GEO e AEO. Não prometa posições garantidas no Google: resultados dependem de mercado, concorrência, site, conteúdo e continuidade do projeto.
